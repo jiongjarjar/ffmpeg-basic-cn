@@ -1,2 +1,1 @@
-# ffmpeg-basic-cn
-FFmpeg basic chinese translation
+[Preview](https://github.com/jiongjarjar/ffmpeg-basic-cn)
