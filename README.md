@@ -1,1 +1,1 @@
-[Preview](https://github.com/jiongjarjar/ffmpeg-basic-cn)
+[Preview](https://jiongjarjar.github.io/ffmpeg-basic-cn)
